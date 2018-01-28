@@ -9,6 +9,6 @@
 interface Barber
 {
 
-
+    public function hairCut();
 
 }
